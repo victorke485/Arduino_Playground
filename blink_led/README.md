@@ -24,7 +24,7 @@ You can view and run the simulation here:
 
 ---
 ### Circuit Setup
-![Schematic Diagram](images/blink_led_schematic.png)
+![Schematic Diagram](single_led_blink_setup.jpg)
 
 ---
 
