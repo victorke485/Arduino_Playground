@@ -1,6 +1,6 @@
 ## Multiple LED Blink
 
-This project demonstrates how to blink amultiple LEDs using an Arduino.  
+This project demonstrates how to blink multiple LEDs using an Arduino.  
 
 ---
 
@@ -15,7 +15,7 @@ This project demonstrates how to blink amultiple LEDs using an Arduino.
 
 ### Simulation
 You can view and run the simulation here:  
-[TinkerCAD link](https://www.tinkercad.com/things/1qtjol9qEeA-led-blinking)
+[TinkerCAD link](https://www.tinkercad.com/things/c6PSRXiFzzK-multiple-led-blinking)
 
 ---
 
@@ -24,7 +24,7 @@ You can view and run the simulation here:
 
 ---
 ### Circuit Setup
-![Schematic Diagram](single_led_blink_setup.jpg)
+![Schematic Diagram](setup.jpg)
 
 ---
 
